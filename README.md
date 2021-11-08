@@ -6,7 +6,7 @@ USB Map is fully compatible with all ports on the back of the motherboard as wel
 
 ## Hardware
 
-CPU: Intel i9-9900K
+CPU: Intel i9-9900K 3.6GHz
 
 Motherboard: ASRock Z370M Pro4
 
