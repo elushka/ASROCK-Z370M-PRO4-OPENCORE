@@ -1,6 +1,8 @@
 # ASROCK-Z370M-PRO4-OPENCORE
 
-Fully working Open Core EFI folder for ASROCK Z370M Pro4 Motherboard + i9-9900K
+Older version of an OpenCore EFI folder for ASROCK Z370M Pro4 Motherboard + i9-9900K. 
+
+**For reference only! Please follow the official guide to create an OpenCore folder with the latest files from the official source at https://dortania.github.io/OpenCore-Install-Guide/**
 
 USB Map is fully compatible with all ports on the back of the motherboard as well as 1 USB 3.0 port on the front of the NZXT H510 case
 
